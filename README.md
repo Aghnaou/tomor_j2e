@@ -1,11 +1,11 @@
 # Tomor _Errachidia_
 # Membre du groupe : 
-Abdlmajid abdesadek
-Aghnaou Mohamed 
-Messaoudi Achraf
-Omari Jamal
-Siffar soufiane 
-Kamal Taha
+Abdlmajid abdesadek /
+Aghnaou Mohamed /
+Messaoudi Achraf /
+Omari Jamal /
+Siffar soufiane / 
+Kamal Taha 
 
 ## Introduction
 Ce projet consiste à créer une plateforme en ligne pour l'achat et la vente de dattes. La plateforme permettra aux producteurs de dattes de mettre en vente leurs produits et aux consommateurs de les acheter directement. L'objectif est de faciliter le commerce des dattes en offrant une solution numérique accessible, efficace et sécurisée.
